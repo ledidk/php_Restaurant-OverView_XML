@@ -1,0 +1,150 @@
+#dropdown{
+   display: block;
+}
+#form{
+    margin-left:50px;
+    margin-top: 50px;     
+}
+.form2{
+    margin-left:50px;
+    margin-top: -1px;   
+}
+h2{
+    margin-left:80px;
+    margin-bottom:20px;
+}
+#enter{
+    margin-left:50.5px;
+    width: 290px;
+    height:25px ;
+    border-color:gray;
+    border-radius: 3px;   
+}
+#street{
+    margin-left:25px;
+    width: 290px;
+    height:25px ;
+    border-color:gray;
+    border-radius: 3px;    
+}
+#city{
+    margin-left:99px;
+    width: 290px;
+    height:25px ;
+    border-color:gray;
+    border-radius: 3px;
+    
+}
+#province{
+    margin-left:33px;
+    width: 290px;
+    height:25px ;
+    border-color:gray;
+    border-radius: 3px;  
+}
+#zipCode{
+    margin-left:26px;
+    width: 290px;
+    height:25px ;
+    border-color:gray;
+    border-radius: 3px;   
+}
+#summary{
+    margin-left:65px;
+    width: 290px;
+    height:60px ;
+    border-color:gray;
+    border-radius: 3px;   
+}
+
+#lblSummary{
+    margin-bottom: 10px;
+    
+}
+
+#items{
+    margin: auto;
+}
+#rating{
+    margin-left:84.5px;
+    width: 290px;
+    height:25px ;
+    border-color:gray;
+    border-radius: 3px;    
+}
+.rating{
+    margin-top: 15px;
+}
+div{
+    margin-bottom: 10px;
+}
+#btn2{
+    border-radius: 5px;
+    border-color: #0047AB;
+    background-color: #2a52be;
+    color: white;
+    margin-left: 138px;
+}
+#btn2:hover{
+    background-color: #0047AB;
+}
+#btn1{
+    border-radius: 5px;
+    border-color: #0047AB;
+    background-color: #2a52be;
+    color: white;
+    margin-left: 133px;
+}
+#btn1:hover{
+    background-color: #0047AB;
+}
+#enter:hover{
+    border-color: cornflowerblue;
+    border-style: solid;
+}
+#street:hover{
+    border-color: cornflowerblue;
+    border-style: solid;
+}
+#city:hover{
+    border-color: cornflowerblue;
+    border-style: solid;
+}
+#province:hover{
+    border-color: cornflowerblue;
+    border-style: solid;
+}
+#zipCode:hover{
+    border-color: cornflowerblue;
+    border-style: solid;
+}
+#summary:hover{
+    border-color: cornflowerblue;
+    border-style: solid;
+}
+
+textarea:hover{
+    border-color: cornflowerblue;
+    border-style: solid;
+}
+#rating:hover{
+    border-color: cornflowerblue;
+    border-style: solid;
+}
+
+#result{
+    margin-top: 20px;
+    width: 430px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: #ACE1AF;
+    color: #00573F;
+}
+
+#resultP{
+    margin-left: 5px;
+}
+
+#errorMsg{
+    margin-right: 130px;
+}

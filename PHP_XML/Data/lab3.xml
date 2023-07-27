@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<restaurants>
+  <restaurant>
+    <id>4256</id>
+    <name>Giovanni&#x92;s Italia Fine Dinning</name>
+    <rating>4</rating>
+    <summary>Giovanni&#x92;s Italia Fine Dinning is a completely restored Victorian stone house&#xD;
+            and offers a warm and elegant atmosphere and gracious service.</summary>
+    <address>
+      <street>220 Lakeview Road</street>
+      <city>Toronto</city>
+      <postalCode>K1K 1K1</postalCode>
+      <province>Ontario</province>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>4566</id>
+    <name>Gong&#x92;s Asian Cuisine</name>
+    <rating>5</rating>
+    <summary>The Gong's food is always consistent. A good variety of dim sum, sushi, Chinese and even Vietnamese dishes. The service is quick and the food is plentiful. We sat&#xD;
+            down last night and within seconds of turning in our first order, the plates were on&#xD;
+            the table! The teriyaki dishes had the right amount of sauce and weren't&#xD;
+            sickeningly sweet. The chicken, fish, and beef were perfectly cooked. The makirolls&#xD;
+            were neatly rolled, cut properly and seasoned well. Loved the General Tao chicken, the&#xD;
+            steamed BBQ pork buns, the eel sushi and the lovely eggplant. We&#xD;
+            will be going back again! I would highly recommend it.</summary>
+    <address>
+      <street>1385 Woodroffe Avenue</street>
+      <city>Ottawa</city>
+      <postalCode>K2G 1V8</postalCode>
+      <province>Ontario</province>
+    </address>
+  </restaurant>
+  <restaurant>
+    <id>45079</id>
+    <name>Baker Street TexMex Grill</name>
+    <rating>3</rating>
+    <summary>My favorite restaurant in Ottawa. The family who owns it are very warm and
+            lovely people. They are incredible at recognizing you when you come back. The
+            burritos are super good. You can customize however you want (guac is included!).
+            I especially love that there is cactus in the veggie mix; it is a small, special thing
+            that sets this place apart from other Mexican spots downtown.</summary>
+    <address>
+      <street>200 Baker Street</street>
+      <city>Ottawa</city>
+      <postalCode>B1G 1V1</postalCode>
+      <province>Ontario</province>
+    </address>
+  </restaurant>
+</restaurants>
